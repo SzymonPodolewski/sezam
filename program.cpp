@@ -5,3 +5,4 @@
 4. To statnia wersja dobra
 5
 6
+7
